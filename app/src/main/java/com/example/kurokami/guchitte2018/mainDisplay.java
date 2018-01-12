@@ -1,4 +1,4 @@
-package com.example.kurokami.guchitte.feature;
+package com.example.kurokami.guchitte2018;
 
 public class mainDisplay{
 

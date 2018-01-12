@@ -1,4 +1,4 @@
-package com.example.kurokami.guchitte.feature;
+package com.example.kurokami.guchitte2018;
 import java.util.Random;
 
 public class bottleMaker{

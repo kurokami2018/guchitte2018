@@ -1,4 +1,4 @@
-package com.example.kurokami.guchitte.feature;
+package com.example.kurokami.guchitte2018;
 
 import android.animation.ObjectAnimator;
 import android.view.animation.AlphaAnimation;

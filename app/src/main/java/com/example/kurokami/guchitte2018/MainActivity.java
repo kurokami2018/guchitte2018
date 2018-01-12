@@ -1,10 +1,10 @@
 
-    package com.example.kurokami.guchitte.feature;
+    package com.example.kurokami.guchitte2018;
         import android.content.Context;
         import android.content.Intent;
         import android.content.SharedPreferences;
         import android.os.Bundle;
-        import android.support.v4.app.AppLaunchChecker.*;
+        import android.support.v4.app.AppLaunchChecker;
         import android.support.v7.app.AppCompatActivity;
         import android.view.View;
         import android.view.animation.AlphaAnimation;
@@ -17,6 +17,7 @@
         import java.util.ArrayList;
         import java.util.List;
         import java.util.Calendar;
+        import android.support.v4.app.AppLaunchChecker;
 
 
 public class MainActivity extends AppCompatActivity {

@@ -1,4 +1,4 @@
-package com.example.kurokami.guchitte.feature;
+package com.example.kurokami.guchitte2018.feature;
 import android.content.Context;
 import android.widget.ImageView;
 import android.support.v7.app.AppCompatActivity;
